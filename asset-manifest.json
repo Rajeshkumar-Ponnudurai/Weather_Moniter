@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Weather_Moniter/static/css/main.423ed3a6.css",
-    "main.js": "/Weather_Moniter/static/js/main.09e78c14.js",
+    "main.js": "/Weather_Moniter/static/js/main.ae96bf14.js",
     "static/js/453.b262bc2e.chunk.js": "/Weather_Moniter/static/js/453.b262bc2e.chunk.js",
     "index.html": "/Weather_Moniter/index.html",
     "main.423ed3a6.css.map": "/Weather_Moniter/static/css/main.423ed3a6.css.map",
-    "main.09e78c14.js.map": "/Weather_Moniter/static/js/main.09e78c14.js.map",
+    "main.ae96bf14.js.map": "/Weather_Moniter/static/js/main.ae96bf14.js.map",
     "453.b262bc2e.chunk.js.map": "/Weather_Moniter/static/js/453.b262bc2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.423ed3a6.css",
-    "static/js/main.09e78c14.js"
+    "static/js/main.ae96bf14.js"
   ]
 }
